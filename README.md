@@ -1,4 +1,4 @@
-### Projeto com a finalidade de criar uma Lambda function para gerar cartões digitais de entrada para um evento com o intuito de aprender as bases sobre as bases do framework serverless e os recursos do AWS, como o Dynamodb
+### Projeto com a finalidade de criar uma Lambda function para gerar cartões digitais de entrada para um evento com o intuito de aprender as bases do framework serverless e os recursos do AWS, como o Dynamodb
 
 # Serverless - AWS Node.js Typescript
 
